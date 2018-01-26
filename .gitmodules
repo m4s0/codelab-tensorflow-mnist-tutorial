@@ -1,0 +1,3 @@
+[submodule "code"]
+	path = code
+	url = git@github.com:m4s0/tensorflow-mnist-tutorial.git
